@@ -1,5 +1,9 @@
 # Analisis Kebutuhan Data dalam Pengembangan Sistem Informasi
 
+#NAMA  : SATRIA AZIZUL HAKIM
+#NPM   : 25781102
+#KELAS : 2D
+
 ## Pendahuluan
 
 ### Latar Belakang
